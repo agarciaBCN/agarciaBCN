@@ -8,6 +8,7 @@ I started out as a graphic designer 👨‍🎨, but the use of computers made m
 
 This has led me to collaborate with great companies and their technological projects, always using the latest technologies. 🤖
 
+- 💼 This is my Portfolio [agarciabcn.github.io](https://agarciabcn.github.io/portfolio/)
 - 🗃 This is my GitHub, [@agarciaBCN](https://github.com/agarciaBCN/) 
-- 💼 This is my LinkedIn [@agarcia-bcn21](https://www.linkedin.com/in/agarcia-bcn21/)
+- 👨‍💼 This is my LinkedIn [@agarcia-bcn21](https://www.linkedin.com/in/agarcia-bcn21/)
 
