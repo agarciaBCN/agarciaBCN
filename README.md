@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hello, I'm Antonio García
 
-👨‍💻 I'm a **UX Designer & FrontEnd Engenieer** from Barcelona.
+👨‍💻 I'm a **UI/UX Designer & FrontEnd Engenieer** from Barcelona.
 
 I am a design and technology enthusiast 💞 with a long career and an innovative spirit.
 
